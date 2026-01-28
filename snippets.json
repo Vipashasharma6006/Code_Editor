@@ -1,0 +1,33 @@
+{
+  "keywords": [
+    "print",
+    "def",
+    "class",
+    "import",
+    "from",
+    "for",
+    "while",
+    "if",
+    "else",
+    "elif",
+    "try",
+    "except",
+    "return",
+    "with",
+    "as",
+    "lambda",
+    "True",
+    "False",
+    "None",
+    "print",
+    "input",
+    "int",
+    "str",
+    "float"
+  ],
+  "snippets": {
+    "for": "for i in range(n):\n    ",
+    "main": "if __name__ == \"__main__\":\n    ",
+    "func": "def function_name():\n    "
+  }
+}
